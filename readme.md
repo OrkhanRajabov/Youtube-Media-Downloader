@@ -37,9 +37,9 @@ python -m venv .venv
 ```
 
 #### 3. Install Dependencies
-Install all required libraries using `pip`:
+Install all required libraries via requirements.txt:
 ```powershell
-pip install customtkinter yt-dlp imageio-ffmpeg pillow
+pip install -r requirements.txt
 ```
 
 #### 4. Launch the Application
@@ -86,7 +86,7 @@ You can compile the app into a single `.exe` file that runs on any Windows machi
 
 ## 👨‍💻 Author & Credits
 
-- **Author:** [akusbutreal](https://www.instagram.com/akusbutreal)
+- **Author:** [Orkhan Rajabov](https://github.com/OrkhanRajabov)
 - **Engine:** Powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp), [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), and [FFmpeg](https://ffmpeg.org/).
 
 ---
